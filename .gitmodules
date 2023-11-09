@@ -1,0 +1,6 @@
+[submodule "event-booking-be"]
+	path = event-booking-be
+	url = git@github.com:viktarius/event-booking-be.git
+[submodule "event-booking-fe"]
+	path = event-booking-fe
+	url = git@github.com:viktarius/event-booking-fe.git
